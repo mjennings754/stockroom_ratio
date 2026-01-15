@@ -1,0 +1,1 @@
+([('main', '/Users/mitchell/stockroom_ratio/dist/main', 'EXECUTABLE')],)
